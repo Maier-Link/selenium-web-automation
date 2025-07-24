@@ -1,12 +1,21 @@
-# Automatización de Flujos Web con Selenium IDE
+# 📄 Automatización de Flujos Web con Selenium IDE
 
-Proyecto para mejorar la cobertura de pruebas automatizadas en entornos web.
+Este proyecto presenta la automatización de flujos críticos en aplicaciones web usando Selenium IDE, con enfoque en pruebas funcionales, cobertura y trazabilidad.
 
-## 🔧 Tecnologías
+## 🔧 Tecnologías Utilizadas
 - Selenium IDE
-- CSS Selectors / XPath
 - Git & GitHub
+- CSS Selectors y XPath
 
-## 📈 Resultados
-- Cobertura aumentada en 85% de los flujos críticos.
-- Reportes centralizados en Jira y Zephyr.
+## 📈 Objetivos del Proyecto
+- Aumentar la cobertura de pruebas en flujos web.
+- Identificar errores funcionales tempranos.
+- Documentar resultados en plataformas de gestión como Jira y Zephyr.
+
+## 📂 Estructura
+- `/test-cases`: Casos de prueba automatizados
+- `/screenshots`: Evidencias de ejecución
+- `/docs`: Documentación del proyecto
+
+## 🤝 Contribuciones
+Abierto a mejoras o nuevas ideas en automatización.
