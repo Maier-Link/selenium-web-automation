@@ -44,6 +44,17 @@ Abierto a mejoras, nuevos casos o propuestas relacionadas con automatización we
 
 ---
 
+### 🖼️ Evidencias de ejecución
+
+#### ✔️ Login exitoso
+![Login Result](screenshots/login_result.png)
+
+#### 🛒 Productos añadidos al carrito
+![Cart Result](screenshots/cart_result.png)
+
+#### ✅ Finalización del checkout
+![Checkout Result](screenshots/checkout_result.png)
+
 ## 📫 Contacto
 
 David Cortez – QA Tester | ISTQB® Certified  
